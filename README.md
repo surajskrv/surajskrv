@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=200&section=header&text=Suraj%20Kumar&fontSize=56&fontColor=e8e6ff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Patna%2C%20India&descAlignY=60&descSize=16&fontFamily=Raleway&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend-focused+Full-Stack+Developer;Flask+%7C+Node.js+%7C+React+%7C+Vue.js;Building+scalable+%26+production-ready+systems;IIT+Madras+%7C+Data+Science+%26+Applications;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend-focused+Full-Stack+Developer;Flask+%7C+Node.js+%7C+React+%7C+Vue.js;Building+scalable+%26+production-ready+systems;IIT+Madras+%7C+Data+Science+%26+Applications;Always+learning%2C+always+building+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com/demo/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajskr/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajskrv@gmail.com)
@@ -15,7 +15,7 @@
 ```yaml
 name:       Suraj Kumar
 role:       Backend-focused Full-Stack Developer
-location:   Patna, Bihar, India
+location:   India
 education:  BS Data Science (IIT Madras) · MCA (IGNOU)
 interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 ```
@@ -176,20 +176,7 @@ interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 </tr>
 </table>
 
----
 
-## 📜 Certifications
-
-<div align="center">
-
-| 🏆 Certification | 🏛️ Issuer | 🔗 Link |
-|:---|:---|:---:|
-| **Diploma in Programming** | IIT Madras | [📄 View Certificate](https://drive.google.com/file/d/1xpJrPza-QlUsGdgTHeV-Ai0PLWApZa5V/view) |
-| **Full-Stack Development Bootcamp** | upGrad / KnowledgeHut | [📄 View Certificate](https://certificates.knowledgehut.com/7bdc037b-caf9-41f3-ad32-d2fbe371c9c4-UG%20Non%20GGU%20Course%20completion-KH12-8009000-20250105005.jpeg) |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -223,7 +210,7 @@ interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=surajskrv&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-trophies.vercel.app/?username=surajskrv&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
