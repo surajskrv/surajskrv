@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=200&section=header&text=Suraj%20Kumar&fontSize=56&fontColor=e8e6ff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Patna%2C%20India&descAlignY=60&descSize=16&fontFamily=Raleway&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=200&section=header&text=Suraj%20Kumar&fontSize=56&fontColor=e8e6ff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20India&descAlignY=60&descSize=16&fontFamily=Raleway&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend-focused+Full-Stack+Developer;Flask+%7C+Node.js+%7C+React+%7C+Vue.js;Building+scalable+%26+production-ready+systems;IIT+Madras+%7C+Data+Science+%26+Applications;Always+learning%2C+always+building+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com/demo/)
 
@@ -43,60 +43,21 @@ interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="16">
-
-<tr>
-<td align="center" valign="top" width="50%">
-
 **`Languages`**
 
 <img src="https://skillicons.dev/icons?i=python,javascript,java&theme=dark&perline=8" />
 
-</td>
-<td align="center" valign="top" width="50%">
+**`Backend & Databases`**
 
-**`Backend`**
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark&perline=8" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top" width="50%">
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgresql,mongodb,redis&theme=dark&perline=8" />
 
 **`Frontend`**
 
 <img src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark&perline=8" />
 
-</td>
-<td align="center" valign="top" width="50%">
+**`Cloud, DevOps & Tools`**
 
-**`Databases`**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark&perline=8" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top" width="50%">
-
-**`Cloud & DevOps`**
-
-<img src="https://skillicons.dev/icons?i=gcp,docker,linux,git&theme=dark&perline=8" />
-
-</td>
-<td align="center" valign="top" width="50%">
-
-**`Tools & Others`**
-
-<img src="https://skillicons.dev/icons?i=github,postman,vscode&theme=dark&perline=8" />
-
-</td>
-</tr>
-
-</table>
+<img src="https://skillicons.dev/icons?i=gcp,docker,linux,git,github,postman,vscode&theme=dark&perline=8" />
 
 </div>
 
@@ -150,33 +111,9 @@ interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 
 </td>
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [CuraNet](https://cura-net.vercel.app/)
-**Healthcare Management Platform**
-
-`Flask` `Vue.js` `SQLAlchemy`
-
-- 🔸 Developed backend APIs for appointment scheduling & treatment management
-- 🔸 Designed relational DB schemas for structured data storage
-- 🔸 Integrated frontend with backend services for dynamic updates
-
-[![Live](https://img.shields.io/badge/🌐_Live-cura--net.vercel.app-A78BFA?style=flat-square)](https://cura-net.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 More Coming Soon...
-
-> _Currently exploring **AI/ML** integration with web applications and building smarter, data-driven software solutions._
-
-</td>
-</tr>
 </table>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -187,10 +124,6 @@ interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajskrv&theme=github_dark"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajskrv&theme=github_dark"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajskrv&theme=github_dark"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajskrv&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=surajskrv&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A78BFA&title_color=A78BFA" width="49%" />
@@ -218,12 +151,6 @@ interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=surajskrv&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=100&section=footer&text=Let%27s+build+something+remarkable+%F0%9F%9A%80&fontSize=14&fontColor=A78BFA&fontAlignY=68&animation=fadeIn" width="100%"/>
