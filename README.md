@@ -199,14 +199,6 @@ interests:  Backend Architecture · REST APIs · Async Processing · AI/ML
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajskrv&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="100%" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
